@@ -1,2 +1,2 @@
 # Node
-Repositório com aprendizado e exercícios: Node
+ - Repositório com: aprendizado, exercícios e projetos.
